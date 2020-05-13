@@ -6,7 +6,7 @@ import asyncio
 import json as js
 import datetime as dt
 
-TOKEN = 'NDYwNTUzMDQ1MjE5MjEzMzEz.DhGbog.j4w2aPbbV5r74quGNqDkoJ1GvlM'
+TOKEN = 'XXXXX'
 LOCK = 0
 outfile = 'AoZRivia.json'
 backup = 'AoZRivia-backup.json'
