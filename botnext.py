@@ -6,7 +6,7 @@ import asyncio
 import json as js
 import datetime as dt
 
-TOKEN = 'NDYwNTUzMDQ1MjE5MjEzMzEz.DhGbog.j4w2aPbbV5r74quGNqDkoJ1GvlM'
+TOKEN = 'XXXXXXXX'
 LOCK = 0
 outfile = 'w12.json'
 backup = 'w12-backup.json'
